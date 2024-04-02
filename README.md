@@ -44,7 +44,7 @@ for the Vertigo Token staking pool.
 This project was built to be integrated with a storage system.  However, 
 there was a lot that I didn't know when I built that system, and some things that I thought were true that were actually false.  Hence, it's 
 not worth posting on github.  An improved (though not quite spectacular) version of 
-that system is available on my profile -- Express Storage System -- if you want to run this contract system.  The initialization process is a bit of a pain, I recommend referencing 
+that system is available on my profile -- called the "Express Storage System" -- if you want to run this contract system.  The initialization process is a bit of a pain, I recommend referencing 
 the test suite to see how it works.  
 
 </p>
