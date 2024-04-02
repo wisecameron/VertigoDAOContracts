@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#">
-  	<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy-downsized.gif" alt="Logo project" height="160" />
+  	<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGpqdnlobTA5dTI4a3BuN203ODc0NHA4a2t2cTF3ejdscWdxZ3FheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jhuU2BQsGsbtmM1Mda/giphy.gif" alt="project logo" height="160" />
   </a>
   <br>
   <br>
