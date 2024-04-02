@@ -33,7 +33,7 @@
 
 ## Highlights ✨
 * Unique DeFi ecosystem leveraging feature-rich ERC20 (Vertigo Token) and ERC721 (VertigoProperty, VertigoProfile) assets.
-* Two unique staking models (one for each token), with a unique storage system 
+* Two staking models (one for each token), with a dedicated storage system 
 for the Vertigo Token staking pool.
 * Upgradeable "Properties" grant secondary token (Dark Energy -- also referred to as VCash in the contract) staking multipliers and flat income boosts.  
 * Fully autonomous team payout and staking distribution systems.
